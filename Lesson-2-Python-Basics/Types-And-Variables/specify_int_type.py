@@ -1,4 +1,4 @@
-def addition(X: int, y:int) -> int:
+def addition(x: int, y:int) -> int:
     print(x + y)
     return x + y
 
